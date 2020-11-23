@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/weex_livepusher-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aedcf5d2c9aa345ca25e1f9e10cd8c90/jetified-weex_livepusher-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aedcf5d2c9aa345ca25e1f9e10cd8c90/jetified-weex_livepusher-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aedcf5d2c9aa345ca25e1f9e10cd8c90/jetified-weex_livepusher-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aedcf5d2c9aa345ca25e1f9e10cd8c90/jetified-weex_livepusher-release/jars/libs/liteavsdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

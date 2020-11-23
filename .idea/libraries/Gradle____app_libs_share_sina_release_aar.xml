@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/share-sina-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/395aedbc80daff3cdc6903fe9d1c1e91/jetified-share-sina-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/395aedbc80daff3cdc6903fe9d1c1e91/jetified-share-sina-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/395aedbc80daff3cdc6903fe9d1c1e91/jetified-share-sina-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
